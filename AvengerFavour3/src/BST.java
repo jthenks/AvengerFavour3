@@ -10,6 +10,7 @@ import java.util.*;
  * in order traversal
  * 
  * @author johnvaliente
+ * @author Jordan Henkelman
  *
  * @param <T>
  */
